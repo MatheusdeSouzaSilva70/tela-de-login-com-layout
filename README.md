@@ -1,6 +1,6 @@
 # tela-de-login-com-layout
 ## Fiz uma tela de login com layout( imagens ao lado )
-### linguagem que foram utilizadas: HTML,CSS.
+### Tecnologias que foram utilizadas: HTML,CSS.
 
 
 
